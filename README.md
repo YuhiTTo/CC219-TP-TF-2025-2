@@ -34,3 +34,6 @@ Se logró construir un pipeline completo de minería de texto, incluyendo limpie
 El análisis mostró que las palabras más frecuentes en las reseñas positivas son “like”, “good”, “taste” y “product”, evidenciando una tendencia a comentarios favorables.
 Entre los modelos probados, la Red Neuronal MLP (baseline) presentó el mejor rendimiento global, con una accuracy aproximada de 0.69 y un F1 ponderado de 0.68, demostrando una buena capacidad para predecir reseñas positivas.
 
+# Licencia
+Este proyecto está bajo la Licencia MIT. Ver LICENSE para más detalles.
+
