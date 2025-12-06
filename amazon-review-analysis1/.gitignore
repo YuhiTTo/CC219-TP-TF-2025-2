@@ -1,0 +1,47 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+dist/
+
+# Archivos de entorno
+.env
+.env.*
+!.env.example
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Backend Python (si lo tienes dentro de backend/)
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env.backend
+.env.backend.*
+
+# Datos pesados (ejemplo)
+backend/models/entrenamiento/*.csv
+data/
+datasets/
